@@ -87,7 +87,7 @@
 	<script type="text/javascript">
 	var status = document.getElementById("status").value;
 	if(status == "success"){
-		swal("Congrats","Account Created Successfully","success")
+		swal("Congrats","Account Created Successfully","success");
 	}
 	</script>
 	
